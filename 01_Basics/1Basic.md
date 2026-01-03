@@ -36,7 +36,7 @@ $: This means you are a regular resident. You can move the furniture in your own
 
 ### Basic practice exercises 2-
 
-8- To verify that you made the text file- "ls -l"- It gives the file details along with date and time.
+8- To verify that you made the text file- "ls -l"- It gives the file details along with date and time
 9- To write something in the file (Without any editor) - echo "Learning Linux is fun" > First.txt
 10- Check the contents without opening an editor- "cat first_note.txt"
 
