@@ -29,7 +29,18 @@ $: This means you are a regular resident. You can move the furniture in your own
 5. To create a new direcotry- "mkdri Folder_name" 
 6. To move in that folder or any "cd folder name" or "cd path of the folder along witn folder name"
 7. To add a text file under the new foder - "touch First.txt"
-8. 
+
+# Output
+
+![Output of above questions- ](../Images/imagef2.png)
+
+
+
+
+
+
 
 
 ![alt text](../Images/image.png)
+
+![alt text](image.png)
