@@ -20,22 +20,16 @@ ritvik: That's you.
 
 $: This means you are a regular resident. You can move the furniture in your own room (~), but you can't go into the Utility Room (/etc) and change the building's wiring unless you use a "Master Key."
 
+### Basic practice exercises-
 
-### File structue diagram
-
-/ (The Root - The Trunk of the Tree)
-├── bin       (Common commands like 'ls', 'cp', 'mkdir')
-├── sbin      (System commands for administration)
-├── etc       (System-wide Configuration files - "The Settings")
-├── home      (User personal folders)
-│   ├── ritvik  (<-- This is where you are (~))
-│   └── guest
-├── root      (Home folder for the Superuser/Admin)
-├── var       (Variable data like System Logs)
-├── tmp       (Temporary files - cleared on restart)
-├── dev       (Hardware devices like hard drives, mouse)
-├── media     (Removable media like USB drives)
-└── usr       (User programs and libraries)
+1. To get to know who is the user- "whoami"
+2. To know the current location - "pwd"
+3. to list all directories - "ls"
+4. To list all directories in tree formate- "tree"
+5. To create a new direcotry- "mkdri Folder_name" 
+6. To move in that folder or any "cd folder name" or "cd path of the folder along witn folder name"
+7. To add a text file under the new foder - "touch First.txt"
+8. 
 
 
 ![alt text](../Images/image.png)
