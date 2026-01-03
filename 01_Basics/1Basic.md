@@ -1,1 +1,1 @@
-![alt text](MyLinuxJourney\Images\image.png)
+![alt text](../Images/image.png)
