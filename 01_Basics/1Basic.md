@@ -20,7 +20,7 @@ ritvik: That's you.
 
 $: This means you are a regular resident. You can move the furniture in your own room (~), but you can't go into the Utility Room (/etc) and change the building's wiring unless you use a "Master Key."
 
-### Basic practice exercises-
+### Basic practice exercises 1-
 
 1. To get to know who is the user- "whoami"
 2. To know the current location - "pwd"
@@ -30,10 +30,19 @@ $: This means you are a regular resident. You can move the furniture in your own
 6. To move in that folder or any "cd folder name" or "cd path of the folder along witn folder name"
 7. To add a text file under the new foder - "touch First.txt"
 
-# Output
+### Output
 
 ![Output of above questions- ](../Images/imagef2.png)
 
+### Basic practice exercises 2-
+
+8- To verify that you made the text file- "ls -l"- It gives the file details along with date and time.
+9- To write something in the file (Without any editor) - echo "Learning Linux is fun" > First.txt
+10- Check the contents without opening an editor- "cat first_note.txt"
+
+### Output
+
+![Ouput](../Images/BasicOtuput3.png)
 
 
 
@@ -41,6 +50,4 @@ $: This means you are a regular resident. You can move the furniture in your own
 
 
 
-![alt text](../Images/image.png)
 
-![alt text](image.png)
