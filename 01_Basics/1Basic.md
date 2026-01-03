@@ -1,1 +1,1 @@
-![alt text](Images\image.png)
+![alt text](C:\Users\Ritvik\Documents\VScode\Linux\MyLinuxJourney\Images\image.png)
