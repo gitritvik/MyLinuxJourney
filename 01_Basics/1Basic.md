@@ -47,7 +47,7 @@ $: This means you are a regular resident. You can move the furniture in your own
 ![Ouput](../Images/BasicOtuput3.png)
 
 12. Copy file to new desitnation- "cp source destination"
-13. move/rename a file - "mv source destination"
+13. move/rename a file - \<mv source destination\>"
 14. To remove/delete file(Linux don't contain the recycle bin rm delete the file compleletely)- "rm file name"
 
 ![OUTPUT](../Images/CPRMimage.png)
