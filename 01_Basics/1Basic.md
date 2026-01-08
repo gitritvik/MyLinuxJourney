@@ -23,7 +23,7 @@ $: This means you are a regular resident. You can move the furniture in your own
 ### Basic practice exercises 1-
 
 1. To get to know who is the user- "whoami"
-2. To know the current location - "pwd"
+2. To know the current location/working directory - "pwd"
 3. to list all directories - "ls"
 4. To list all directories in tree formate- "tree"
 5. To create a new direcotry- "mkdri Folder_name" 
@@ -44,6 +44,8 @@ $: This means you are a regular resident. You can move the furniture in your own
 ### Output
 
 ![Ouput](../Images/BasicOtuput3.png)
+
+12. Copy file to new desitnation- cp <source> <1Destination>
 
 
 
