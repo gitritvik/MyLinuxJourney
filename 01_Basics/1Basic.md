@@ -24,11 +24,12 @@ $: This means you are a regular resident. You can move the furniture in your own
 
 1. To get to know who is the user- "whoami"
 2. To know the current location/working directory - "pwd"
-3. to list all directories - "ls"
+3. to list all directories - "ls" / ls-l to show the more info about file/directoryu.
 4. To list all directories in tree formate- "tree"
-5. To create a new direcotry- "mkdri Folder_name" 
+5. To create a new direcotry- "mkdir Folder_name" 
 6. To move in that folder or any "cd folder name" or "cd path of the folder along witn folder name"
-7. To add a text file under the new foder - "touch First.txt"
+7. To add a text file under the new foder - "touch First.txt" 
+
 
 ### Output
 
@@ -38,16 +39,18 @@ $: This means you are a regular resident. You can move the furniture in your own
 
 8. To verify that you made the text file- "ls -l"- It gives the file details along with date and time
 9. To write something in the file (Without any editor) - echo "Learning Linux is fun" > First.txt
-10. Check the contents without opening an editor- "cat first_note.txt"
+10. Check the contents without opening an editor- "cat first_note.txt" (if file is not found there my becasus of typo it will create a new file and add content their)
 11. To go one step back in file hirarchy- "cd .."
 
 ### Output
 
 ![Ouput](../Images/BasicOtuput3.png)
 
-12. Copy file to new desitnation- "cp <source> <Destination>"
-13. move/rename a file - 
+12. Copy file to new desitnation- "cp source destination"
+13. move/rename a file - "mv source destination"
+14. To remove/delete file(Linux don't contain the recycle bin rm delete the file compleletely)- "rm file name"
 
+![OUTPUT](../Images/CPRMimage.png)
 
 
 
