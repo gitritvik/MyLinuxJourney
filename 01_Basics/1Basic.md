@@ -45,7 +45,8 @@ $: This means you are a regular resident. You can move the furniture in your own
 
 ![Ouput](../Images/BasicOtuput3.png)
 
-12. Copy file to new desitnation- cp <source> <1Destination>
+12. Copy file to new desitnation- "cp <source> <Destination>"
+13. move/rename a file - 
 
 
 
